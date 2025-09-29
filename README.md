@@ -30,3 +30,5 @@ CSS3 – Styling (glassmorphism, animations, responsiveness)
 JavaScript (Vanilla) – Interactivity and animations
 
 Font Awesome – Icons
+the link
+https://portfolioalexmwangi.netlify.app/
